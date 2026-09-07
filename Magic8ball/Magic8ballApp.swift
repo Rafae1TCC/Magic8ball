@@ -11,7 +11,7 @@ import SwiftUI
 struct Magic8ballApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            EightBallView()
         }
     }
 }
